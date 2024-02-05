@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = valeria.yeye@gmail.com
+	name = Valeria Labastida
